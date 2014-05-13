@@ -4,6 +4,6 @@ from tenthou.game import Game
 
 if __name__ == '__main__':
   game = Game()
-  print game
+  game.start()
 
 # vim: set filetype=python
